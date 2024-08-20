@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intrack</string>
+    <string name="title_activity_ins_location_screen">InsLocationScreen</string>
+    <string name="back_button">Back</string>
+    <string name="ins">INS</string>
+    <string name="april_tag">AprilTag</string>
+</resources>
